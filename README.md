@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chauyingjia" alt="chauyingjia" /></a> </p>
 
-- 🔭 I’m currently studying in **UTM**
+- 🙆‍♀️ About me:
+  📚 A first year sem 1 student. Just graduated from foundation and started my journey in degree.
+  
+- 🏫 I’m currently studying in [UTM](https://www.utm.my/)
+  ✏️ Learning the basics in Computer Science and I hope to master them well as fast as possible.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,5 +21,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauyingjia&show_icons=true&locale=en&layout=compact" alt="chauyingjia" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chauyingjia&show_icons=true&locale=en" alt="chauyingjia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chauyingjia&" alt="chauyingjia" /></p>
 
