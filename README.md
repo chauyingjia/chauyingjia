@@ -8,13 +8,15 @@
   
   📚 A first year sem 1 student.Just graduated from foundation and started my journey in degree.
   
-- 🏫 I’m currently persuing my studies in [UTMJB](https://www.utm.my/)
+  🏫 I’m currently persuing my studies in [UTMJB](https://www.utm.my/)
 
   ✏️ Learning the basics in Computer Science and I hope to master them well as fast as possible.
 
   📧 Reach me at **chauyingjia04@gmail.com**
+  
 
-<h3 align="left">Connect with me:</h3>
+<h3>Find me at:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/chau-ying-jia-949717299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chau-ying-jia-949717299/" height="30" width="40" /></a>
 <a href="https://fb.com/annikka.chauyingjia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="annikka.chauyingjia" height="30" width="40" /></a>
