@@ -15,7 +15,7 @@
   📧 Reach me at **chauyingjia04@gmail.com**
   
 <h3>My e-portfolio 📌 </h3>
--Year 1 : 
+-Year 1 semester 1: "https://github.com/chauyingjia/Year-1_sem-1.git"
 
 
 <h3>Find me at:</h3>
