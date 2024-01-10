@@ -17,8 +17,8 @@
 <h2>My e-portfolio 📌 </h2>
 -Year 1 semester 1: "https://github.com/chauyingjia/Year-1_sem-1.git"
 
-
-<h3>Find me at:</h3>
+<br/>
+<h2>Find me at:</h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/chau-ying-jia-949717299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chau-ying-jia-949717299/" height="30" width="40" /></a>
