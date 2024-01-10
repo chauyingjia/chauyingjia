@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauyingjia&label=Profile%20views&color=0e75b6&style=flat" alt="chauyingjia" /> </p>
 
 
-- 🙆‍♀️ About me:
+- <h2>About me 🙆‍♀️: </h2> 
   
   📚 A first year sem 1 student.Just graduated from foundation and started my journey in degree.
   
@@ -14,7 +14,7 @@
 
   📧 Reach me at **chauyingjia04@gmail.com**
   
-<h3>My e-portfolio 📌 </h3>
+<h2>My e-portfolio 📌 </h2>
 -Year 1 semester 1: "https://github.com/chauyingjia/Year-1_sem-1.git"
 
 
