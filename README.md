@@ -1,23 +1,26 @@
+![I'm Chau Ying Jia](https://github.com/chauyingjia/chauyingjia/assets/148327652/4f7e2dbf-36ef-4bc9-b53c-e1c91323c83b)
 <h1 align="center">Hi 👋, I'm Chau Ying Jia</h1>
-<p  align="center"><img alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/></p>
 <h3 align="center">A passionate newby in Computer Science <Data Engineering> student from Ipoh, Perak</h3>
-
+<img align = "right" alt = "Coding" width = "460" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauyingjia&label=Profile%20views&color=0e75b6&style=flat" alt="chauyingjia" /> </p>
+ 
 
 
- <h2>About me 🙆‍♀️: </h2> 
+
+<h2>About me 🙆‍♀️: </h2> 
   
-  📚 A first year sem 1 student.Just graduated from foundation and started my journey in degree.
+  📚 A first year sem 1 student.<br/> Just graduated from foundation and started my journey in degree.
   
   🏫 I’m currently persuing my studies in [UTMJB](https://www.utm.my/)
 
   ✏️ Learning the basics in Computer Science and I hope to master them well as fast as possible.
 
   📧 Reach me at **chauyingjia04@gmail.com**
-  
+
+
 <br/><br/>
 <h2>My e-portfolio 📌 </h2>
--Year 1 semester 1: "https://github.com/chauyingjia/Year-1_sem-1.git"
+-Year 1 semester 1: https://github.com/chauyingjia/Year-1_sem-1
 
 <br/><br/>
 <h2>Find me at:</h2>
