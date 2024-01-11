@@ -1,4 +1,4 @@
-![I'm Chau Ying Jia](https://github.com/chauyingjia/chauyingjia/assets/148327652/4f7e2dbf-36ef-4bc9-b53c-e1c91323c83b)
+[![MasterHead](https://github.com/chauyingjia/chauyingjia/assets/148327652/d83d88e0-f134-41e7-97c8-7c9b2f70d67a)
 <h1 align="center">Hi 👋, I'm Chau Ying Jia</h1>
 <h3 align="center">A passionate newby in Computer Science <Data Engineering> student from Ipoh, Perak</h3>
 <img align = "right" alt = "Coding" width = "460" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
