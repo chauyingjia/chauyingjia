@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chau Ying Jia</h1>
+<p  align="center"><img alt="Coding" width="450" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/></p>
 <h3 align="center">A passionate newby in Computer Science <Data Engineering> student from Ipoh, Perak</h3>
-<p  align="centre"><img alt="Coding" width="500" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/></p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauyingjia&label=Profile%20views&color=0e75b6&style=flat" alt="chauyingjia" /> </p>
 
