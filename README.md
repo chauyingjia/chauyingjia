@@ -18,7 +18,7 @@
 <br/><br/>
 <h2>My e-portfolio website 📌 </h2>
 
-You can check out my website from this link.
+Check out my portfolio [here](https://chauyingjia.github.io/#)
 
 <br/><br/>
 <h2>My e-portfolio 📌 </h2>
