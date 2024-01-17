@@ -28,7 +28,7 @@
 
 Check out my portfolio [here](https://chauyingjia.github.io/#)
 
-<br/><br/>
+<br/>
 <h2>My e-portfolio 📌 </h2>
 
 - [Year 1 semester 1](https://github.com/chauyingjia/Year-1_sem-1)
