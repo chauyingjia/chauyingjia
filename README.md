@@ -34,9 +34,5 @@ Check out my portfolio [here](https://chauyingjia.github.io/#)
 <a href="https://instagram.com/yingjiaaaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yingjiaaaa_" height="30" width="40" /></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauyingjia&show_icons=true&locale=en&layout=compact" alt="chauyingjia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chauyingjia&show_icons=true&locale=en" alt="chauyingjia" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chauyingjia&" alt="chauyingjia" /></p>
 
