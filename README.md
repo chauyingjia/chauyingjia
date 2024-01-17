@@ -16,6 +16,14 @@
   📧 Reach me at **chauyingjia04@gmail.com**
 
 <br/><br/>
+<h2>My  Education 📌 </h2>
+🏫Primary School<br/> SJK(C) BERCHAM <br/><br/>
+🏫Secondary School<br/> SMJK AVE MARIA CONVENT IPOH <br/><br/>
+🏫Pre-University <br/> UTMSPACE KL - Foundation in Physical Science <br/><br/>
+🏫University<br/> UTMJB - Bachelor degree in Computer Science (Data Engineering) <br/><br/>
+
+
+
 <h2>My e-portfolio website 📌 </h2>
 
 Check out my portfolio [here](https://chauyingjia.github.io/#)
