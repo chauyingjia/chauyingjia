@@ -7,7 +7,7 @@
 
 <h2>About me 🙆‍♀️: </h2> 
   
-  📚 A first year sem 1 student.<br/> Just graduated from foundation and started my journey in degree.
+  📚 A second year sem 1 student.<br/> Just graduated from foundation and started my journey in degree.
   
   🏫 I’m currently persuing my studies in [UTMJB](https://www.utm.my/)
 
