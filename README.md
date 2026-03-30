@@ -1,17 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Chau Ying Jia</h1>
-<h3 align="center">A passionate Computer Science (Data Engineering) student from Ipoh, Perak</h3>
+<h3 align="center">A Computer Science (Data Engineering) student from Ipoh, Perak</h3>
 <img align = "right" alt = "Coding" width = "460" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" title = "studying hard">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauyingjia&label=Profile%20views&color=0e75b6&style=flat" alt="chauyingjia" /> </p>
  
 
 <h2>About me 🙆‍♀️: </h2> 
   
-  📚 A third year sem 2 student.<br/> Just graduated from foundation and started my journey in degree.
+  📚 A third year student.<br/>
   
   🏫 I’m currently persuing my studies in [UTMJB](https://www.utm.my/)
-
-  ✏️ Learning the basics in Computer Science and I hope to master them well as fast as possible.
 
   📧 Reach me at **chauyingjia04@gmail.com**
 
