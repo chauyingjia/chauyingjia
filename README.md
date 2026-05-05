@@ -28,16 +28,16 @@
 
 ### 🚀 Featured Projects
 
-*   **Student Performance Prediction** 📊
-    *   Developed a supervised machine learning model (KNN & Naïve Bayes) with **76.43% accuracy**.
+*   📊 [**Student Performance Prediction**](https://github.com/chauyingjia/UTM_Degree_Coursework/Year2_Sem1)
+    *   Developed a supervised machine learning model (KNN & Naïve Bayes).
     *   *Tech:* Python, Data Normalization, Label Encoding.
-*   **Food Delivery Record System** 🛵
+*   🛵 [**Food Delivery Record System**](https://github.com/chauyingjia/UTM_Degree_Coursework/tree/main/Year3_Sem1/DATABASE_PROGRAMMING/PROJECT2)
     *   Designed a scalable NoSQL document model using **MongoDB** aggregation pipelines.
     *   *Tech:* MongoDB, Compound Indexing.
-*   **Smart Digital Attendance System** 📝
+*   📝 [**Smart Digital Attendance System**](https://github.com/chauyingjia/UTM_Degree_Coursework/tree/main/Year3_Sem1/DATABASE_PROGRAMMING/PROJECT1)
     *   Built a full SQL backend optimizing query efficiency via **BTREE and TEXT indexes**.
     *   *Tech:* SQL, DDL/DML/DQL operations.
-*   **KADA Kelantan Client System** 🏦
+*   🏦 **KADA Kelantan Client System** 
     *   Full-stack member registration and financial transaction system.
 
 ---
