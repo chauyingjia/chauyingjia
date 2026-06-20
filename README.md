@@ -73,26 +73,33 @@ Explore my personal e-portfolio website to view my academic journey, coursework,
 ### 🚀 Featured Projects
 
 *   🏦 [**KADA Kelantan Client System**](https://github.com/chauyingjia/Technicrab_Project1_SAD_20232024)
-    *   Developed a full-stack system for member registration and financial transactions.
-    *   Managed everything from database DML diagram design to the final web application UI.
-    *   Coordinated directly with clients to refine system functionality and requirements.
+    *   Developed a web-based cooperative management system for Koperasi KADA Kelantan.
+    *   Designed system requirements, user stories, UML diagrams, database structure and user interfaces as part of the full system development process.
+    *   Coordinated with clients and team members to refine system functionality, improve workflow efficiency and reduce reliance on manual paper-based processes.
+    *   *Tech:* Laravel, PHP, MySQL, HTML, CSS, JavaScript, Bootstrap, phpMyAdmin, XAMPP, UML, Database Design.
 
-*   🏨 **Hostel Management System**
-    *   Developed a web-based hostel management system to manage student hostel registration, room allocation and related hostel records.
-    *   Designed and implemented system features using Laravel, HTML, CSS, JavaScript, phpMyAdmin, Bootstrap and XAMPP.
-    *   Improved the management workflow by providing a more structured and user-friendly system interface.
+*   🏨 [**Hostel Management System**](https://github.com/chauyingjia/UTM_Degree_Coursework/tree/main/Year3_Sem1/ENTERPRISE%20SYSTEM%20DESIGN%20AND%20MODELING/PROJECT)
+    *   Developed university hostel management system.
+    *   Designed the system using Enterprise Architecture principles (business, application, data and technology layers) to support better system integration.
+    *   Built system models and interfaces such as use case diagrams, activity diagrams, sequence diagrams, database design and student/admin portal screens.
+    *   *Tech:* SAP Build Apps, Enterprise Architecture, System Integration, Database Design, UI/UX Prototype.
+ 
+*   🏭 [**Recoverable Assets & Inventory Risk Management Pipeline**](https://github.com/chauyingjia/UTM_Degree_Coursework/tree/main/Year3_Sem2/SPECIAL_TOPIC_IN_DATA_ENGINEERING/PROJECT_PPG)
+    *   Developed an end-to-end data engineering pipeline for PPG to support inventory risk analysis, recoverable asset tracking, and stockout risk monitoring.
+    *   Implemented a Medallion Architecture with Bronze, Silver, and Gold layers to ingest, clean, transform, and prepare analytics-ready datasets.
+    *   Built interactive Power BI dashboards to visualize inventory health, financial risk, Magna Carta dead stock, expired materials, and customer order impact.
+    *   *Tech:* Microsoft Azure, Azure Data Factory, Azure Data Lake Storage Gen2, Azure Synapse Analytics, Power BI, ETL/ELT, Medallion Architecture.
 
-*   📊 [**Student Performance Prediction**](https://github.com/chauyingjia/UTM_Degree_Coursework/tree/main/Year2_Sem2/DATA_MINING/PROJECT1)
-    *   Developed a supervised machine learning model using **KNN** and **Naïve Bayes**.
-    *   *Tech:* Python, Data Normalization, Label Encoding.
+*   ⚡ [**Apache Spark Education Data ETL Pipeline**](https://github.com/chauyingjia/UTM_Degree_Coursework/tree/main/Year3_Sem2/SPECIAL_TOPIC_IN_DATA_ENGINEERING/TUTORIAL2)
+    *   Built an ETL pipeline using Apache Spark to process large-scale Brazilian Basic Education Census data from 2010 to 2021.
+    *   Transformed raw CSV files into Parquet format, designed a star schema, and loaded structured data into PostgreSQL for analytical queries.
+    *   Developed the pipeline to support education trend analysis, including student enrolment patterns by year, state and city.
+    *   *Tech:* Apache Spark, PySpark, Python, PostgreSQL, Parquet, Star Schema, ETL, Adminer, Metabase.
 
 *   🛵 [**Food Delivery Record System**](https://github.com/chauyingjia/UTM_Degree_Coursework/tree/main/Year3_Sem1/DATABASE_PROGRAMMING/PROJECT2)
     *   Designed a scalable NoSQL document model using **MongoDB** aggregation pipelines.
     *   *Tech:* MongoDB, Compound Indexing.
 
-*   📝 [**Smart Digital Attendance System**](https://github.com/chauyingjia/UTM_Degree_Coursework/tree/main/Year3_Sem1/DATABASE_PROGRAMMING/PROJECT1)
-    *   Built a full SQL backend optimizing query efficiency via **BTREE** and **TEXT indexes**.
-    *   *Tech:* SQL, DDL/DML/DQL operations.
 
 ---
 
