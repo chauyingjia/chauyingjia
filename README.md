@@ -19,7 +19,7 @@
 ### 🌐 E-Portfolio Website
 
 <p align="left">
-<a href="https://chauyingjia.github.io" target="blank">
+<a href="https://chauyingjia.github.io/" target="blank">
   <img src="https://img.shields.io/badge/View%20My%20E--Portfolio-1D9E75?style=for-the-badge&logo=githubpages&logoColor=white" alt="E-Portfolio" />
 </a>
 </p>
